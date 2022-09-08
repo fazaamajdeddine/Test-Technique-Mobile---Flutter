@@ -50,7 +50,7 @@ class _HomeViewState extends State<HomeView> {
                   Text(
                     "Shiftes Offerts",
                     style: TextStyle(
-                      fontSize: 20,
+                      fontSize: 19,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
