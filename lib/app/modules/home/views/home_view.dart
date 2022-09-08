@@ -47,13 +47,13 @@ class _HomeViewState extends State<HomeView> {
               ),
               Row(
                 children: const [
-                  Text(
-                    "Shiftes Offerts",
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.bold,
-                    ),
-                  ),
+                  //Text(
+                  //  "Shiftes Offerts",
+                  //  style: TextStyle(
+                  //    fontSize: 20,
+                  //    fontWeight: FontWeight.bold,
+                  //  ),
+                  //),
                 ],
               ),
               _data.isNotEmpty
