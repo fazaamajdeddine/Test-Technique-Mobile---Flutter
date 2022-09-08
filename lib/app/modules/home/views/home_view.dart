@@ -47,6 +47,7 @@ class _HomeViewState extends State<HomeView> {
               ),
               Row(
                 children: const [
+
                   Text(
                     "Shiftes Offerts",
                     style: TextStyle(
@@ -54,6 +55,8 @@ class _HomeViewState extends State<HomeView> {
                       fontWeight: FontWeight.bold,
                     ),
                   ),
+
+
                 ],
               ),
               _data.isNotEmpty
